@@ -33,7 +33,7 @@ end
 
 def retrieve_first_element_from_array(array)
   goldfishes = ["wow", "One", "am", "Three"]
-  golsfishes.first()
+  goldfishes.first()
 end
 
 def retrieve_last_element_from_array(array)
